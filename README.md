@@ -12,7 +12,8 @@ You can also find here:
 |Name       |Where                     |When       |Link| 
 |-----------|--------------------------|-----------|-----------------------------------------------|
 |Biting Gold|Ministry of Testing Meetup|Nov 7, 2018|[Biting Gold](https://docs.google.com/presentation/d/1c7S3ZZ7_UzlJCs_oPuLCGPQM3JjTAlATJ2s9OJ1roB8/edit?usp=sharing)|
-|Hoodwink Your Tests With Test Doubles|Boston Software Crafters|Aug 28, 2018|[Hoodwink Your Tests With Test Doubles](https://docs.google.com/presentation/d/1EuNuHP5g7si-qPXlpHszbiq1bqVhos5rSu4BblSMnkE/edit#slide=id.p)
+|Hoodwink Your Tests With Test Doubles|Boston Software Crafters Meetup|Aug 28, 2018|[Hoodwink Your Tests With Test Doubles](https://docs.google.com/presentation/d/1EuNuHP5g7si-qPXlpHszbiq1bqVhos5rSu4BblSMnkE/edit#slide=id.p)
+|The Epic Battle Between Folklore and Engineering|Boston Software Crafters Meetup|July 23, 2018|[The Epic Battle Between Folklore and Engineering(https://docs.google.com/presentation/d/e/2PACX-1vRLY_Poiz96wYNGYmTCTKRABlfZXWib8izX-2L9miRsyJogvQY5sawaxTz3d6jVp5TmpnIGO_XQP5In/pub?start=false&loop=false&delayms=3000&slide=id.p)|
 # Articles
 
 ## Design Pattern Medium Pieces
