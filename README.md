@@ -1,6 +1,6 @@
 ## Hello, world!
 
-In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#"Python Repositories Summary")
+In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
 
 You can also find here:
 [Presentations](#Presentations)
@@ -15,7 +15,7 @@ You can also find here:
 
 
 
-# Python Repositories Summary
+># Python Repositories Summary
 
 ## Pythons can move 1 mile per hour on the flat ground.
 
