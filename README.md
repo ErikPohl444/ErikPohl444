@@ -11,6 +11,33 @@ You can also find here:
 
 # Articles
 
+## Design Pattern Medium Pieces
+
+* [Interpreter](https://medium.com/@erikpohl.444/everyones-guide-to-the-interpreter-design-pattern-c51698598dac)
+* [Flyweight](https://medium.com/@erikpohl.444/everyones-guide-to-the-flyweight-design-pattern-46f88143617d)
+* [Factory](https://medium.com/@erikpohl.444/everyones-guide-to-the-factory-method-design-pattern-dde0bfcb1e14)
+* [Adapter](https://medium.com/@erikpohl.444/everyones-guide-to-the-adapter-design-pattern-78d55fbb513c)
+* [Composite](https://medium.com/@erikpohl.444/everyones-guide-to-the-composite-design-pattern-434525c61edb)
+* [Strategy](https://medium.com/@erikpohl.444/everyones-guide-to-the-strategy-design-pattern-3e4da6c827c6)
+* [Observer](https://medium.com/@erikpohl.444/everyones-guide-to-the-observer-design-pattern-4661e08cbe0d)
+* [Visitor](https://medium.com/@erikpohl.444/everyones-guide-to-the-visitor-design-pattern-690250a7c6a9)
+* [Template](https://medium.com/@erikpohl.444/everyones-guide-to-the-template-method-design-pattern-870a60d8a78)
+* [Bridge](https://medium.com/@erikpohl.444/everyones-guide-to-the-bridge-design-pattern-37ffc6957b40)
+* [Builder](https://medium.com/@erikpohl.444/everyones-guide-to-the-builder-design-pattern-dbebb71840e9)
+* [Abstract Factory](https://medium.com/@erikpohl.444/everyones-guide-to-the-abstract-factory-design-pattern-68b6ae5cb732)
+* [Prototype](https://medium.com/@erikpohl.444/everyones-guide-to-the-prototype-design-pattern-2ab4be9ceaaa)
+* [Chain of Responsibility](https://medium.com/@erikpohl.444/everyones-guide-to-the-chain-of-responsibility-design-pattern-f46f140f9d5a)
+* [Command](https://medium.com/@erikpohl.444/everyones-guide-to-the-command-design-pattern-30946c4ff9fa)
+* [State](https://medium.com/@erikpohl.444/everyones-guide-to-the-state-design-pattern-567625e8bb21)
+* [Iterator](https://medium.com/@erikpohl.444/everyones-guide-to-the-iterator-design-pattern-645755ef5c68)
+* [Proxy](https://medium.com/@erikpohl.444/everyones-guide-to-the-proxy-design-pattern-c9a8e652cde4)
+* [Singleton](https://medium.com/@erikpohl.444/everyones-guide-to-the-singleton-design-pattern-27d8e36f8ab1)
+* [Mediator](https://medium.com/@erikpohl.444/everyones-guide-to-the-mediator-design-pattern-51d8403ec17a)
+* [Memento](https://medium.com/@erikpohl.444/everyones-guide-to-the-memento-design-pattern-95d4a0a9fbd0)
+* [Decorator](https://medium.com/@erikpohl.444/everyones-guide-to-the-decorator-design-pattern-d32a7d64cab4)
+* [Facade](https://medium.com/@erikpohl.444/everyones-guide-to-the-facade-design-pattern-c06233c610dd)
+
+
 
 
 
