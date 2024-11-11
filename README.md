@@ -15,7 +15,7 @@ You can also find here:
 |Hoodwink Your Tests With Test Doubles|Boston Software Crafters Meetup|Pluralsight|Aug 28, 2018|[Hoodwink Your Tests With Test Doubles](https://docs.google.com/presentation/d/1EuNuHP5g7si-qPXlpHszbiq1bqVhos5rSu4BblSMnkE/edit#slide=id.p)
 |The Epic Battle Between Folklore and Engineering|Boston Software Crafters Meetup|Pluralsight|July 23, 2018|[The Epic Battle Between Folklore and Engineering](https://docs.google.com/presentation/d/e/2PACX-1vRLY_Poiz96wYNGYmTCTKRABlfZXWib8izX-2L9miRsyJogvQY5sawaxTz3d6jVp5TmpnIGO_XQP5In/pub?start=false&loop=false&delayms=3000&slide=id.p)|
 |Building Unit Tests - Python Restful APIs|Boston Software Crafters Meetup|Pluralsight|June 26, 2018|[Building Unit Tests - Python Restful APIs](https://docs.google.com/presentation/d/1ffuQWDSuHviZQ4GmLbinrIoPAaK0_KEnDISujH3CPiU/edit?usp=sharing)|
-|Java and Test Driven Development: Red, green, refactor|Boston Java Meetup|Pivotal|[Java and Test Driven Development: Red, green, refactor](https://docs.google.com/presentation/d/1H3vzyh9fj3OBj2amzsZgoVJdp9JXi2sJL0KGBfHe3_g/edit?usp=sharing)|
+|Java and Test Driven Development: Red, green, refactor|Boston Java Meetup|Pivotal|July 10, 2018|[Java and Test Driven Development: Red, green, refactor](https://docs.google.com/presentation/d/1H3vzyh9fj3OBj2amzsZgoVJdp9JXi2sJL0KGBfHe3_g/edit?usp=sharing)|
 # Articles
 
 ## Design Pattern Medium Pieces
