@@ -1,8 +1,11 @@
 ## Hello, world!
 
-In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories.
+In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python]
 
 You can also find here:
+[Presentations]
+[Articles]
+
 
 # Presentations
 
