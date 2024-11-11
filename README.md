@@ -17,6 +17,7 @@ You can also find here:
 |Building Unit Tests - Python Restful APIs|Boston Software Crafters Meetup|Pluralsight|June 26, 2018|[Building Unit Tests - Python Restful APIs](https://docs.google.com/presentation/d/1ffuQWDSuHviZQ4GmLbinrIoPAaK0_KEnDISujH3CPiU/edit?usp=sharing)|
 |Java and Test Driven Development: Red, green, refactor|Boston Java Meetup|Pivotal|July 10, 2018|[Java and Test Driven Development: Red, green, refactor](https://docs.google.com/presentation/d/1H3vzyh9fj3OBj2amzsZgoVJdp9JXi2sJL0KGBfHe3_g/edit?usp=sharing)|
 |Learn Go and GoLearn|Boston Golang Meetup|DataDog|May 1, 2018|[Learn Go and GoLearn](https://drive.google.com/file/d/1COIIzcWSzucPt-fDqRvG5m0GPcrJiLz1/view?pli=1)|
+|Red, Green, Refactor: Test And Data Driven Development In Kotlin|Kotlin Office Hours Meetup|Intrepid Labs|April 12, 2018|[Red, Green, Refactor: Test and Data Driven Development in Kotlin](https://docs.google.com/presentation/d/1vP7VLHJwRjmIRtEm1TjCFd2vEMOEVYoGyij__LcFEJA/edit?usp=sharing)|
 
 # Articles
 
