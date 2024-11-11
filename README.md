@@ -10,7 +10,7 @@ You can also find here:
 # Presentations
 
 |Name       |Where                     |When       |Link| 
-|-----------------------------------------------------------------------------------------------|
+|-----------|--------------------------|-----------|-----------------------------------------------|
 |Biting Gold|Ministry of Testing Meetup|Nov 7, 2018|[Biting Gold](https://docs.google.com/presentation/d/1c7S3ZZ7_UzlJCs_oPuLCGPQM3JjTAlATJ2s9OJ1roB8/edit?usp=sharing)|
 # Articles
 
