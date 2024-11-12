@@ -62,22 +62,27 @@ This is just one of many interesting things about pythons.
 
 ![Tools! Tools?](https://github.com/ErikPohl-Lot49-Projects/Erik-Pohl-Repo/blob/master/media/evolu.png "Tools! Tools?")
 
-I am quickly evolving my style now from "able to solve complex problems in Python reliably" more towards "writing Python I'd submit for a production code review".
+What you see here is some work I did a while back in Python, before I: 
+* managed a team of Python engineers
+* tooled technical implementations with enterprise customers onto a SaaS system in Python so I'd automate the difficult parts away-- allowing me to have more information to talk to the customers
+* became a tech lead for a project involving a customer moving to the cloud from an on-prem system, one involving Angular and Node  
 
-I'm still learning, researching Python-particular coding patterns (even learning from anti-patterns), to refine my code style
+Back when I wrote these, I was quickly evolving my style from "able to solve complex problems in Python reliably" more towards "writing Python I'd submit for a production code review".
 
-The most representative work is recent work:
+I'm was learning, researching Python-particular coding patterns (even learning from anti-patterns), to refine my code style.  [I am still learning!]
+
+The most representative work back then was recent work at the time:
 
 _JnesaisQ_
 
 _list_of_xs_sorter_
 
-I plan on building on these so they work together and so the list_of_Xs_sorter uses a design pattern to handle all of the different lists of Xs it can sort.
+As time permits, I'd like to continue my work building on these so they work together and so the list_of_Xs_sorter uses a design pattern to handle all of the different lists of Xs it can sort.
 As I move forward, I will go back and refactor for style and clarity my former work, including adding the details below:
 
 # Important disclaimer
 
-Some of the code here does not represent work I'd submit for production code-review.  Standards differ, and I have worked within many different sets, helping to establish and build on them.
+Don't assume code in the repos represents work I'd submit for production code-review.  Standards differ, and I have worked within many different sets, helping to establish code standards and to build on them.
 
 Here are some elements I expect to be able to provide, if needed:
 
@@ -114,9 +119,7 @@ Here are some elements I expect to be able to provide, if needed:
 
 On the job, I'm ever-vigilant about them.
 
-Python is not my day-job.  I taught myself Python on nights and weekends because I love the language.
-
-This is a repo I put together after a full day of work of software engineering in PL/SQL.  On weekends, it was after a full work-week in PL/SQL.  
+This is a repo I put together after a full day of work of software engineering in other languages.  On weekends, it was after a full work-week in other languages.  
 
 I do this side-work because I love Python enough to spend my leisure time getting better at it.  
 
@@ -135,9 +138,9 @@ In other words, this is my sandbox.  You get a peek inside what I'm curious abou
 
 **Code is only partly measured by how it performs as expected-- it should communicate, tell a story.**  
 
-That's what I do during my work-day.
+That's what I do during my work-day.   I make sure code can ship: it produces the right results, it has quality, and it tells a story for anyone else who might pick it up.  
 
-Were Python my day-job, I'd apply the same level of ever-vigilance to it as I have over time in other languages, and I would address the code during a work day when I'm still fresh (have coffee / tea in me).  
+As a manager and as a tech lead, I apply the same level of vigilance to it as I have over time in all the languages I've worked, and I would address the code during a work day when I'm still fresh (have coffee / tea in me).  
 
 Some of my better work is not in this repo because it is protected by an obligation to one or more companies.
 
