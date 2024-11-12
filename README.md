@@ -6,6 +6,15 @@ You can also find here:
 * [Presentations](#Presentations)
 * [Articles](#Articles)
 
+Here's some high-level stuff:
+| Info Type                             | Info                                                                                                   |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Pronouns                              | He/him/his                                                                                             |
+| Contact Info                          | erik.pohl.444@gmail.com                                                                                |
+| What am I working on now (job)        | Tech lead to modernize an on-prem application for the cloud -- Angular, Node, Oracle, Postgres         |
+| What am I working on now (spare time) | Adding new language projects to my Github account in repos for fun toy projects on nights and weekends |
+| Fun fact                              | In high school, using a language most people now would have never programmed in, I had to write some dynamic (self-modifying) code to solve a problem.  I had not heard about it at the time.  Necessity is the mother of invention.|
+
 
 # Presentations
 
@@ -213,6 +222,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some medium pieces:
 
-Here are some presentations I've made at meetups:
