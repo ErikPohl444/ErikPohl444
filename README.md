@@ -170,7 +170,7 @@ As a manager and as a tech lead, I apply the same level of vigilance to it as I 
 </details>
 
 Disclaimer:
-Some of my better work is not in this repo because it is protected by an obligation to one or more companies.
+Some of my better work is not on GitHub because it is protected by an obligation to one or more companies.
 
 Thanks in advance for holding your nose!
 
