@@ -1,5 +1,17 @@
 ## Hello, world!
 
+<details>
+<summary>High-level info about me</summary>
+
+| Info Type                             | Info                                                                                                   |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Pronouns                              | He/him/his                                                                                             |
+| Contact Info                          | erikpohl.444@gmail.com                                                                                |
+| What am I working on now (job)        | Tech lead to modernize an on-prem application for the cloud -- Angular, Node, Oracle, Postgres         |
+| What am I working on now (spare time) | Using nights and weekends to add new language work to my Github account in repos containing fun toy projects |
+| Fun fact                              | In high school, using a language most people now would have never programmed in, I had to write some dynamic (self-modifying) code to solve a problem.  I had not heard about it at the time.  Necessity is the mother of invention.|
+</details>
+
 In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
 
 <details>
@@ -12,14 +24,6 @@ You can also find here:
 * [Presentations](#Presentations)
 * [Articles](#Articles)
 
-Here's some high-level stuff:
-| Info Type                             | Info                                                                                                   |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Pronouns                              | He/him/his                                                                                             |
-| Contact Info                          | erikpohl.444@gmail.com                                                                                |
-| What am I working on now (job)        | Tech lead to modernize an on-prem application for the cloud -- Angular, Node, Oracle, Postgres         |
-| What am I working on now (spare time) | Using nights and weekends to add new language work to my Github account in repos containing fun toy projects |
-| Fun fact                              | In high school, using a language most people now would have never programmed in, I had to write some dynamic (self-modifying) code to solve a problem.  I had not heard about it at the time.  Necessity is the mother of invention.|
 
 I can be found on:
 | Social                                | Link                                                                                                   |
