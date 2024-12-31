@@ -5,7 +5,7 @@ In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.
 <details>
 <summary>Some tech leadership resources I created</summary>
 
-content
+My substack account contains [examples](https://substack.com/@some1elsier) of how I manage engineering efforts.
 
 </details>
 
