@@ -1,6 +1,6 @@
 ## Hello, world!
 
-<details>
+<details open=True>
 <summary>High-level info about me</summary>
 
 | Info Type                             | Info                                                                                                   |
