@@ -5,13 +5,7 @@ In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.
 <details>
 <summary>Some tech leadership resources I created</summary>
 
-content body (support **markdown** syntax ~~hmm~~)
-
-```json
-{
-  support: "codeblock to"
-}
-​```
+content
 
 </details>
 
