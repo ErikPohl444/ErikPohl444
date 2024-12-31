@@ -36,7 +36,6 @@ You can also find here:
 
 
 
-In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
 
 
 # Presentations
@@ -84,6 +83,7 @@ In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.
 </details>
 
 
+In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
 
 
 
