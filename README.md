@@ -28,17 +28,6 @@
 My substack account contains [examples](https://substack.com/@some1elsier/posts) of how I manage engineering efforts.
 </details>
 
-You can also find here:
-* [Presentations](#Presentations)
-* [Articles](#Articles)
-
-
-
-
-
-
-
-# Presentations
 <details>
 <summary>Presentations I made in the Boston area about engineering</summary>
   
