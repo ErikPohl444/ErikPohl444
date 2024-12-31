@@ -135,6 +135,8 @@ Here are some elements I expect to be able to provide, if needed:
 **_This will also serve as a template for the starting readme to do list for any new folders created under this one._**
 </details>
 
+<details>
+  <summary>On code smells</summary>
 # I know what code smells are
 
 ![Yoda doesn't like code smells](https://github.com/ErikPohl-Lot49-Projects/Erik-Pohl-Repo/blob/master/media/code_smell.jpg "Stinks it does.")
@@ -165,7 +167,9 @@ In other words, this is my sandbox.  You get a peek inside what I'm curious abou
 That's what I do during my work-day.   I make sure code can ship: it produces the right results, it has quality, and it tells a story for anyone else who might pick it up.  
 
 As a manager and as a tech lead, I apply the same level of vigilance to it as I have over time in all the languages I've worked, and I would address the code during a work day when I'm still fresh (have coffee / tea in me).  
+</details>
 
+Disclaimer:
 Some of my better work is not in this repo because it is protected by an obligation to one or more companies.
 
 Thanks in advance for holding your nose!
