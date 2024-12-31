@@ -4,9 +4,7 @@ In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.
 
 <details>
 <summary>Some tech leadership resources I created</summary>
-
-My substack account contains [examples](https://substack.com/@some1elsier) of how I manage engineering efforts.
-
+My substack account contains [examples](https://substack.com/@some1elsier/posts) of how I manage engineering efforts.
 </details>
 
 You can also find here:
@@ -31,7 +29,8 @@ I can be found on:
 
 
 # Presentations
-
+<details>
+<summary>Presentations I made in the Boston area about engineering</summary>
 |Name       |What|Where                     |When       |Link| 
 |-----------|----|----------------------|-----------|-----------------------------------------------|
 |Biting Gold|Ministry of Testing Meetup|Quickbase|Nov 7, 2018|[Biting Gold](https://docs.google.com/presentation/d/1c7S3ZZ7_UzlJCs_oPuLCGPQM3JjTAlATJ2s9OJ1roB8/edit?usp=sharing)|
@@ -41,10 +40,11 @@ I can be found on:
 |Java and Test Driven Development: Red, green, refactor|Boston Java Meetup|Pivotal|July 10, 2018|[Java and Test Driven Development: Red, green, refactor](https://docs.google.com/presentation/d/1H3vzyh9fj3OBj2amzsZgoVJdp9JXi2sJL0KGBfHe3_g/edit?usp=sharing)|
 |Learn Go and GoLearn|Boston Golang Meetup|DataDog|May 1, 2018|[Learn Go and GoLearn](https://drive.google.com/file/d/1COIIzcWSzucPt-fDqRvG5m0GPcrJiLz1/view?pli=1)|
 |Red, Green, Refactor: Test And Data Driven Development In Kotlin|Kotlin Office Hours Meetup|Intrepid Labs|April 12, 2018|[Red, Green, Refactor: Test and Data Driven Development in Kotlin](https://docs.google.com/presentation/d/1vP7VLHJwRjmIRtEm1TjCFd2vEMOEVYoGyij__LcFEJA/edit?usp=sharing)|
-
-# Articles
+</details>
 
 ## Design Pattern Medium Pieces
+<details>
+<summary>Here are a list of the design pattern pieces</summary>
 
 * [Interpreter](https://medium.com/@erikpohl.444/everyones-guide-to-the-interpreter-design-pattern-c51698598dac)
 * [Flyweight](https://medium.com/@erikpohl.444/everyones-guide-to-the-flyweight-design-pattern-46f88143617d)
@@ -69,7 +69,7 @@ I can be found on:
 * [Memento](https://medium.com/@erikpohl.444/everyones-guide-to-the-memento-design-pattern-95d4a0a9fbd0)
 * [Decorator](https://medium.com/@erikpohl.444/everyones-guide-to-the-decorator-design-pattern-d32a7d64cab4)
 * [Facade](https://medium.com/@erikpohl.444/everyones-guide-to-the-facade-design-pattern-c06233c610dd)
-
+</details>
 
 
 
