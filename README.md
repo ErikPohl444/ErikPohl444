@@ -42,9 +42,8 @@ My substack account contains [examples](https://substack.com/@some1elsier/posts)
 |Red, Green, Refactor: Test And Data Driven Development In Kotlin|Kotlin Office Hours Meetup|Intrepid Labs|April 12, 2018|[Red, Green, Refactor: Test and Data Driven Development in Kotlin](https://docs.google.com/presentation/d/1vP7VLHJwRjmIRtEm1TjCFd2vEMOEVYoGyij__LcFEJA/edit?usp=sharing)|
 </details>
 
-## Design Pattern Medium Pieces
 <details>
-<summary>Here are a list of the design pattern pieces</summary>
+<summary>Articles I wrote about design patterns and published on Medium:</summary>
 
 * [Interpreter](https://medium.com/@erikpohl.444/everyones-guide-to-the-interpreter-design-pattern-c51698598dac)
 * [Flyweight](https://medium.com/@erikpohl.444/everyones-guide-to-the-flyweight-design-pattern-46f88143617d)
