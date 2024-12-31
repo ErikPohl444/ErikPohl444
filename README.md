@@ -173,7 +173,9 @@ Disclaimer:
 Some of my better work is not on GitHub because it is protected by an obligation to one or more companies.
 
 Thanks in advance for holding your nose!
-
+<details>
+  <summary>To do list for me to revise and move to issues as needed</summary>
+  
 # Python High-Level To Do
 ## Design pattern gists to complete
 - [x] Factory Method
@@ -219,6 +221,7 @@ Thanks in advance for holding your nose!
     - [ ]    field_validate?  custom rules
     - [ ]    field_xlate?   custom rules
 - [ ] Work on xlate list of lists sorter and countput to align them and jnesaidq
+</details>
 
 
 
