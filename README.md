@@ -4,6 +4,7 @@ In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.
 
 <details>
 <summary>Some tech leadership resources I created</summary>
+
 My substack account contains [examples](https://substack.com/@some1elsier/posts) of how I manage engineering efforts.
 </details>
 
@@ -31,6 +32,7 @@ I can be found on:
 # Presentations
 <details>
 <summary>Presentations I made in the Boston area about engineering</summary>
+  
 |Name       |What|Where                     |When       |Link| 
 |-----------|----|----------------------|-----------|-----------------------------------------------|
 |Biting Gold|Ministry of Testing Meetup|Quickbase|Nov 7, 2018|[Biting Gold](https://docs.google.com/presentation/d/1c7S3ZZ7_UzlJCs_oPuLCGPQM3JjTAlATJ2s9OJ1roB8/edit?usp=sharing)|
