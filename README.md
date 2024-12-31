@@ -71,11 +71,11 @@ My substack account contains [examples](https://substack.com/@some1elsier/posts)
 </details>
 
 
-In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
 
+<details>
+<summary>About my Python repos:</summary>
 
-
-># Python Repositories Summary
+  # Python Repositories Summary
 
 ## Pythons can move 1 mile per hour on the flat ground.
 
@@ -133,6 +133,7 @@ Here are some elements I expect to be able to provide, if needed:
   - [ ] More items will be added here
 
 **_This will also serve as a template for the starting readme to do list for any new folders created under this one._**
+</details>
 
 # I know what code smells are
 
