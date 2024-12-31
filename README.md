@@ -2,6 +2,19 @@
 
 In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
 
+<details>
+<summary>Some tech leadership resources I created</summary>
+
+content body (support **markdown** syntax ~~hmm~~)
+
+```json
+{
+  support: "codeblock to"
+}
+​```
+
+</details>
+
 You can also find here:
 * [Presentations](#Presentations)
 * [Articles](#Articles)
