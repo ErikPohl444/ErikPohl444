@@ -12,7 +12,15 @@
 | Fun fact                              | In high school, using a language most people now would have never programmed in, I had to write some dynamic (self-modifying) code to solve a problem.  I had not heard about it at the time.  Necessity is the mother of invention.|
 </details>
 
-In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
+<details>
+<summary>I can be found on the following social media sites:</summary>
+  
+| Social                                | Link                                                                                                   |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Substack                              | https://substack.com/@some1elsier                                                                      |
+| Bluesky                               | https://bsky.app/profile/tw33tzr4kidz.bsky.social                                                      |
+
+</details>
 
 <details>
 <summary>Some tech leadership resources I created</summary>
@@ -25,12 +33,10 @@ You can also find here:
 * [Articles](#Articles)
 
 
-I can be found on:
-| Social                                | Link                                                                                                   |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Substack                              | https://substack.com/@some1elsier                                                                      |
-| Bluesky                               | https://bsky.app/profile/tw33tzr4kidz.bsky.social                                                      |
 
+
+
+In here, you'll find some Go, Kotlin, and Java repositories-- but mostly Python.  For that, look below for some summary info about the Python repositories: [Python](#Python-Repositories-Summary)
 
 
 # Presentations
