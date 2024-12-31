@@ -176,51 +176,9 @@ Thanks in advance for holding your nose!
 <details>
   <summary>To do list for me to revise and move to issues as needed</summary>
   
-# Python High-Level To Do
-## Design pattern gists to complete
-- [x] Factory Method
-- [x] Adapter
-- [x] Composite	
-- [x] Flyweight	
-- [x] Interpreter	
-- [x] Observer	
-- [x] Strategy	
-- [x] Template Method	
-- [x] Vistor	
-## Other
-- [ ] Add to this list from every project
-- [x] Django Tutorial-- completed in January but not on GitHub
-- [ ] Design Patterns tasks -- goal: present, complete
-  - [ ] Design Patterns Presentation
-  - [ ] Design Patterns Wiki
-  - [ ] PEP8 Design Pattern Gists
-- [ ] PyJamb
-  - [ ] Tools for PyJamb
-- [ ] Rewrite Blister using tools (term count)
-- [ ] Rewrite Velodrome using tools (ETL)
-- [ ] Fast Hammer
-  - [ ] Tools for Fast Hammer (Dedup/Redup)
-- [ ] JnesaisQ
-   - [ ] Sum/Aggregate of JnesaisQ?
-   - [ ] Concurrency in JnesaisQ list query?  *Probably not.*
-   - [ ] Consider recursive or floating searches
-- [ ] Countput
-  - [ ] More Countput result formats
-- [ ] Machine Learning
-  - [ ] Complete various tutorials on different datasets / algorithms
-  - [ ] Prepare ML presentation
-  - [ ] Student expected results project (Regular Flock)
-  - [ ] Journalism bias project (Ad Hoc Knot)
-- [ ] Guarantee
-  - [ ] Revisit Validations in Guarantee
-    - [ ]   validate field by list of values
-    - [ ]   validate field by numeric range
-- [ ] xlate
-  - [ ] Mandatory fields and/or validations in xlate
-  - [ ] xlate date format and custom field type support
-    - [ ]    field_validate?  custom rules
-    - [ ]    field_xlate?   custom rules
-- [ ] Work on xlate list of lists sorter and countput to align them and jnesaidq
+- [ ] Move gists from old GitHub account to current one
+- [ ] Standardize repos with best practices in Resources repo 
+
 </details>
 
 
