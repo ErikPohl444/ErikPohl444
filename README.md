@@ -169,7 +169,9 @@ As a manager and as a tech lead, I apply the same level of vigilance to it as I 
 
 <details>
   <summary>On patterns and anti-patterns in general</summary>
+  
   But an engineering manager or tech lead looks at other patterns:
+  
   - Communication patterns and anti-patterns
   - Organizational patterns and anti-patterns
   - Work process patterns and anti-patterns
