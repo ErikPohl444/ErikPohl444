@@ -9,7 +9,7 @@
 | Pronouns                              | He/him/his                                                                                             |
 | What am I working on now (job)        | Tech lead to modernize an on-prem application for the cloud -- Angular, Node, Oracle, Postgres         |
 | What am I working on now (spare time) | Using nights and weekends to add new language work to my Github account in repos containing fun toy projects |
-| Fun fact                              | In high school, using a language most people now would have never programmed in, I had to write some dynamic (self-modifying) code to solve a problem.  I had not heard about it at the time.  Necessity is the mother of invention.|
+| Fun fact                              | I once wrote self-modifying code in Apple BASIC so that I could graph user-defined formulas using [high-resolution graphics](https://devonhubner.org/Applesoft_BASIC_High_Resolution_Graphics/). I'd officially learn this is a thing and that some languages actually allow it, unlike my hack of BASIC, in college.|
   
 | Social                                | Link                                                                                                   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
