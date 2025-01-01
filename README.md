@@ -145,15 +145,13 @@ Here are some elements I expect to be able to provide, if needed:
 
 On the job, I'm ever-vigilant about them.
 
-This is a repo I put together after a full day of work of software engineering in other languages.  On weekends, it was after a full work-week in other languages.  
-
 I do this side-work because I love Python enough to spend my leisure time getting better at it.  
 
 _Why do I have Python code up here with bad code smells?_
 
-I want to demonstrate I can write a rough draft of Python code to do a variety of things.
+I want to demonstrate I can write a rough draft of Python code to do a variety of things, even if I write it hastily and promise to come back to a toy project to refactor it.
 
-Also, I am getting much better (some of this is Yoda-aged code for me!)  I do come back periodically and clean it up.  
+Some of this is Yoda-aged code for me!  I do come back periodically and clean it up, but my checklist for good code and a good repo is very long-- sometimes I find new projects to work on!
 
 Some of this code is just downright experimental:
 
