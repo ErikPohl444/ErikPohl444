@@ -170,13 +170,15 @@ As a manager and as a tech lead, I apply the same level of vigilance to it as I 
 <details>
   <summary>On patterns and anti-patterns in general</summary>
   But an engineering manager or tech lead looks at other patterns:
-  * Communication patterns and anti-patterns
-  * Organizational patterns and anti-patterns
-  * Work process patterns and anti-patterns
-  * People leadership patterns and anti-patterns
+  - Communication patterns and anti-patterns
+  - Organizational patterns and anti-patterns
+  - Work process patterns and anti-patterns
+  - People leadership patterns and anti-patterns
 
-  I have a couple of decades learning these the hard way so that they are instinctual.  I love talking about them.  If you can't find a topic covered in my Substack, hit me up.  
-  But I know each pattern is only a compass indicators: I don't let the perfect be the enemy of the good.  If any org could perfect itself overnight, we'd all be out jobs.
+  I have a couple of decades learning these the hard way so that they are instinctual.  I love talking about them.  If you can't find a topic covered in my Substack, hit me up.
+  
+  I know each pattern is only a compass indicator: I don't let the perfect be the enemy of the good.  If any org could perfect itself overnight, we'd all be out jobs.
+  
   ** I know how to drive teams to iterate towards better places without preventing them from shipping software along the way. **
   </details>
 
