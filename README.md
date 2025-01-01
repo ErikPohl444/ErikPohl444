@@ -7,7 +7,7 @@
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Contact Info Email                    | erikpohl.444@gmail.com                                                                                |
 | Pronouns                              | He/him/his                                                                                             |
-| What am I working on now (job)        | Tech lead to multiple dev teams modernizing an on-prem application -- Dot Net/Smalltalk/client-server-- for the cloud -- Angular, Node, Oracle, Postgres         |
+| What am I working on now (job)        | Tech lead to multiple dev teams modernizing an on-prem application -- .Net/Smalltalk/client-server-- for the cloud -- Angular, Node, Oracle, Postgres         |
 | What am I working on now (spare time) | Using nights and weekends to add new language work to my Github account in repos containing fun toy projects |
 | Fun fact                              | I once wrote self-modifying code in Apple BASIC so that I could graph user-defined formulas using [high-resolution graphics](https://devonhubner.org/Applesoft_BASIC_High_Resolution_Graphics/). I'd officially learn "self-modifying code" is a thing and that some languages actually allow it, unlike my hack of BASIC, in college.|
   
