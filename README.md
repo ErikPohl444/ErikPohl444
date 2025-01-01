@@ -81,6 +81,13 @@ This is just one of many interesting things about pythons.
 
 ![Tools! Tools?](https://github.com/ErikPohl-Lot49-Projects/Erik-Pohl-Repo/blob/master/media/evolu.png "Tools! Tools?")
 
+
+# Important disclaimer
+
+- Don't assume code in the repos represents work which would pass a code review I help a team define, or which I'd implement myself.
+- Standards differ, and I have worked within many different sets, helping to establish code standards, code-review methodologies, and to build on them.
+
+
 <details>
   <summary>Pay no attention to the man behind the curtain</summary>
   
@@ -93,7 +100,7 @@ What you see here is some work I did a while back in Python, before I:
 Back when I wrote these, I was quickly evolving my style from "able to solve complex problems in Python reliably" more towards "writing Python I'd submit for a production code review" or "Python I'd show a junior engineer when mentoring that person".
 
 I'm was learning, researching Python-particular coding patterns (even learning from anti-patterns), to refine my code style.  [I am still learning!]
-As time permits, I'd like to continue my work building on these
+As time permits, I'd like to continue my work building on these.
 
 </details>
 <details><summary>Featured work</summary>
@@ -102,13 +109,8 @@ As time permits, I'd like to continue my work building on these
 I'll make a list of featured work here.
 </details>
 
-# Important disclaimer
-
-Don't assume code in the repos represents work which would pass a code review I help a team define, or which I'd implement myself.
-Standards differ, and I have worked within many different sets, helping to establish code standards, code-review methodologies, and to build on them.
 
 
-**_This will also serve as a template for the starting readme to do list for any new folders created under this one._**
 </details>
 
 <details>
