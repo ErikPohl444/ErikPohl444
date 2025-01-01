@@ -39,7 +39,7 @@ My substack account contains [examples](https://substack.com/@some1elsier/posts)
 </details>
 
 <details>
-<summary>Articles I wrote about design patterns and published on Medium:</summary>
+<summary>Articles I wrote about design patterns and published on Medium</summary>
 
 * [Interpreter](https://medium.com/@erikpohl.444/everyones-guide-to-the-interpreter-design-pattern-c51698598dac)
 * [Flyweight](https://medium.com/@erikpohl.444/everyones-guide-to-the-flyweight-design-pattern-46f88143617d)
@@ -69,7 +69,7 @@ My substack account contains [examples](https://substack.com/@some1elsier/posts)
 
 
 <details>
-<summary>About my Python repos:</summary>
+<summary>About my Python repos</summary>
 
   # Python Repositories Summary
 
