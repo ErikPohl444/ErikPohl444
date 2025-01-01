@@ -181,7 +181,8 @@ As a manager and as a tech lead, I apply the same level of vigilance to it as I 
   
   I know each pattern is only a compass indicator: I don't let the perfect be the enemy of the good.  If any org could perfect itself overnight, we'd all be out jobs.
   
-  ** I know how to drive teams to iterate towards better places without preventing them from shipping software along the way. **
+  **I know how to drive teams to iterate towards better places without preventing them from shipping software along the way.**
+  
   </details>
 
 Disclaimer:
