@@ -10,10 +10,6 @@
 | What am I working on now (job)        | Tech lead to modernize an on-prem application for the cloud -- Angular, Node, Oracle, Postgres         |
 | What am I working on now (spare time) | Using nights and weekends to add new language work to my Github account in repos containing fun toy projects |
 | Fun fact                              | In high school, using a language most people now would have never programmed in, I had to write some dynamic (self-modifying) code to solve a problem.  I had not heard about it at the time.  Necessity is the mother of invention.|
-</details>
-
-<details>
-<summary>I can be found on the following social media sites:</summary>
   
 | Social                                | Link                                                                                                   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
