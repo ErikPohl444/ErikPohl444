@@ -87,6 +87,7 @@ This is just one of many interesting things about pythons.
 
 <details>
   <summary>Pay no attention to the man behind the curtain</summary>
+  
 **Beginner work**
 What you see here is some work I did a while back in Python, before I: 
 * managed a team of Python engineers
@@ -99,7 +100,11 @@ I'm was learning, researching Python-particular coding patterns (even learning f
 As time permits, I'd like to continue my work building on these
 
 </details>
+<details><summary>Featured work</summary>
 
+# Featured work
+I'll make a list of featured work here.
+</details>
 
 # Important disclaimer
 
