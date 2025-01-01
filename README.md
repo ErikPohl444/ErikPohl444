@@ -5,7 +5,7 @@
 
 | Info Type                             | Info                                                                                                   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Contact Info                          | erikpohl.444@gmail.com                                                                                |
+| Contact Info Email                    | erikpohl.444@gmail.com                                                                                |
 | Pronouns                              | He/him/his                                                                                             |
 | What am I working on now (job)        | Tech lead to modernize an on-prem application for the cloud -- Angular, Node, Oracle, Postgres         |
 | What am I working on now (spare time) | Using nights and weekends to add new language work to my Github account in repos containing fun toy projects |
