@@ -81,10 +81,13 @@ My substack account contains [examples](https://substack.com/@some1elsier/posts)
 
 This is just one of many interesting things about pythons.
 
-## This repo shows an evolution
+## This repo contains work at various stages of evolution
 
 ![Tools! Tools?](https://github.com/ErikPohl-Lot49-Projects/Erik-Pohl-Repo/blob/master/media/evolu.png "Tools! Tools?")
 
+<details>
+  <summary>Pay no attention to the man behind the curtain</summary>
+**Beginner work**
 What you see here is some work I did a while back in Python, before I: 
 * managed a team of Python engineers
 * tooled technical implementations with enterprise customers onto a SaaS system in Python so I'd automate the difficult parts away-- allowing me to have more information to talk to the customers
@@ -93,15 +96,10 @@ What you see here is some work I did a while back in Python, before I:
 Back when I wrote these, I was quickly evolving my style from "able to solve complex problems in Python reliably" more towards "writing Python I'd submit for a production code review".
 
 I'm was learning, researching Python-particular coding patterns (even learning from anti-patterns), to refine my code style.  [I am still learning!]
+As time permits, I'd like to continue my work building on these
 
-The most representative work back then was recent work at the time:
+</details>
 
-_JnesaisQ_
-
-_list_of_xs_sorter_
-
-As time permits, I'd like to continue my work building on these so they work together and so the list_of_Xs_sorter uses a design pattern to handle all of the different lists of Xs it can sort.
-As I move forward, I will go back and refactor for style and clarity my former work, including adding the details below:
 
 # Important disclaimer
 
