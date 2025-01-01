@@ -94,7 +94,7 @@ What you see here is some work I did a while back in Python, before I:
 * tooled technical implementations with enterprise customers onto a SaaS system in Python so I'd automate the difficult parts away-- allowing me to have more information to talk to the customers
 * became a tech lead for a project involving a customer moving to the cloud from an on-prem system, one involving Angular and Node  
 
-Back when I wrote these, I was quickly evolving my style from "able to solve complex problems in Python reliably" more towards "writing Python I'd submit for a production code review".
+Back when I wrote these, I was quickly evolving my style from "able to solve complex problems in Python reliably" more towards "writing Python I'd submit for a production code review" or "Python I'd show a junior engineer when mentoring that person".
 
 I'm was learning, researching Python-particular coding patterns (even learning from anti-patterns), to refine my code style.  [I am still learning!]
 As time permits, I'd like to continue my work building on these
