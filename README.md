@@ -104,32 +104,9 @@ I'll make a list of featured work here.
 
 # Important disclaimer
 
-Don't assume code in the repos represents work I'd submit for production code-review.  Standards differ, and I have worked within many different sets, helping to establish code standards and to build on them.
+Don't assume code in the repos represents work which would pass a code review I help a team define, or which I'd implement myself.
+Standards differ, and I have worked within many different sets, helping to establish code standards, code-review methodologies, and to build on them.
 
-Here are some elements I expect to be able to provide, if needed:
-
-- [ ] Apply this checklist to all new projects as step one
-- [ ] A complete regression test suite in PyTest (until I can decide between that and unittest/Parameterized)
-- [ ] Meaningful exceptions and exception-handling coverage.
-- [ ] Thoughtful, self-documenting, variable, method, and function names.
-- [ ] Adequate output to permit users to understand the results, assisting in the self-documenting nature of the code.
-  - [ ] Specifically, would this benefit from comprehensive logging?
-  - [ ] Would it benefit from a results page with stats to demonstrate accurate and complete results?
-  - [ ] How do I want to manage output to stdout, stderr, file, etc?
-  - [ ] How do comments and outputs help and assist one another without being redundant?
-- [ ] Actual docstring comments at all levels of the code.
-- [ ] Linting the code for PEP 8 standardization like PEP8 or Applying a PEP formatter to the code like Project Black.
-- [ ] Requirements documents, user-facing documents and presentations, and other documents consistent with Agile User Stories to add value.
-- [ ] Commit statements which facilitate an understanding of code history.
-- [ ] Readme.md pages with more interesting usage of markdown which tell a code narrative. 
-- [ ] For custom classes, create dunders as appropriate
-- [ ] Make sure to include standard module comment headers
-- [ ] Make good decisions relating to
-  - [ ] Duck typing instead of type checking
-  - [ ] Exceptions versus return values
-  - [ ] Using idiomatic Python versus clarity of code
-  - [ ] Having functions return values -- as a default-- have a good reason not to
-  - [ ] More items will be added here
 
 **_This will also serve as a template for the starting readme to do list for any new folders created under this one._**
 </details>
