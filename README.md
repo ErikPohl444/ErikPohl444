@@ -18,6 +18,17 @@
 
 </details>
 
+/details open=True>
+<summary>Recent things I've been hacking around with</summary>
+
+- fastapi
+- more advanced django work
+- Apache Airflow
+- uv
+- ruff
+- dJango-ninja
+</details>
+
 <details>
 <summary>Some tech leadership resources I created</summary>
 
