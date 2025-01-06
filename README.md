@@ -24,7 +24,7 @@
 | Thing                                                     | What it is good for                                                                                   | 
 ------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | fastapi                                                   | Potential replacement for flask for small use-cases                                                   |
-| More advanced django work                                 | Full-stack work with Python                                                                           |
+| more advanced django work                                 | Full-stack work with Python                                                                           |
 | Apache Airflow                                            | Python-based data-engineering pipeline                                                                |
 | uv                                                        | Python Pip replacement and all-in-one swiss-army-knife package manager?  Will it live up to the hype? |
 | ruff                                                      | Solid Python linting tool when combined with a type checker like mypy                                 |
