@@ -21,12 +21,14 @@
 <details open=True>
 <summary>Recent things I've been hacking around with</summary>
 
-- fastapi
-- more advanced django work
-- Apache Airflow
-- uv
-- ruff
-- dJango-ninja
+| Thing   | What is it good for | 
+--------------------------------|
+| fastapi | Potential replacement for flask for small use-cases |
+|  more advanced django work | Full-stack work with Python |
+| Apache Airflow | data engineering pipeline |
+| uv | Python Pip replacement and all-in-one swiss-army-knife package manager?  Will it live up to the hype? |
+| ruff | Solid Python linting tool when combined with a type checker like mypy |
+| django-ninja | What fastapi is to flask, but for django? |
 </details>
 
 <details>
