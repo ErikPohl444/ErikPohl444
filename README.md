@@ -18,7 +18,7 @@
 
 </details>
 
-</details open=True>
+<details open=True>
 <summary>Recent things I've been hacking around with</summary>
 
 - fastapi
