@@ -13,7 +13,7 @@
   
 | Social                                | Link                                                                                                   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Substack                              | https://substack.com/@some1elsier                                                                      |
+| Substack                              | https://erikpohl444.substack.com/                                                                    |
 | Bluesky                               | https://bsky.app/profile/tw33tzr4kidz.bsky.social                                                      |
 
 </details>
