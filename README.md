@@ -23,7 +23,7 @@
 
 | Thing                                                     | What it is good for                                                                                   | 
 ------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Refreshing boto3, AWS, and serverless experience          | Cloud compute and AWS lambda functions from Python                                                    |
+| Refreshing boto3, AWS, and serverless experience          | Cloud compute, microservices, and AWS lambda functions from Python                                                    |
 | fastapi                                                   | Potential replacement for flask for small use-cases                                                   |
 | more advanced django work                                 | Full-stack work with Python                                                                           |
 | Apache Airflow                                            | Python-based data-engineering pipeline                                                                |
