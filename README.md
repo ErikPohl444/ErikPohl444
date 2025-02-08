@@ -14,7 +14,6 @@
 | Social                                | Link                                                                                                   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Substack                              | https://erikpohl444.substack.com/                                                                    |
-| Bluesky                               | https://bsky.app/profile/tw33tzr4kidz.bsky.social                                                      |
 
 </details>
 
