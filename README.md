@@ -22,7 +22,8 @@
 
 | Thing                                                     | What it is good for                                                                                   | 
 ------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Refreshing boto3, AWS, and serverless experience          | Cloud compute, microservices, and AWS lambda functions from Python                                                    |
+| React frontends for static datasets and streaming data    |                                                                                                       |
+| Refreshing boto3, AWS, and serverless experience          | Cloud compute, microservices, and AWS lambda functions from Python                                    |
 | fastapi                                                   | Potential replacement for flask for small use-cases                                                   |
 | more advanced django work                                 | Full-stack work with Python                                                                           |
 | Apache Airflow                                            | Python-based data-engineering pipeline                                                                |
