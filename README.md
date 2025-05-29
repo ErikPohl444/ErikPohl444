@@ -9,7 +9,7 @@
 | Pronouns                              | He/him/his                                                                                             |
 | What am I working on now (job)        | Tech lead to multiple dev teams modernizing an on-prem application -- .Net/Smalltalk/client-server-- for the cloud -- Angular, Node, Oracle, Postgres         |
 | What am I working on now (spare time) | Using nights and weekends to add new language work to my Github account in repos containing fun toy projects |
-| Fun fact                              | I once wrote self-modifying code in Apple BASIC so that I could graph user-defined formulas using [high-resolution graphics](https://devonhubner.org/Applesoft_BASIC_High_Resolution_Graphics/). Learned it had a fancy name and stuff when I got to college a couple of years later.|
+| Fun fact                              | Ask me about how birding has improved my tech leadership skills. |
   
 | Social                                | Link                                                                                                   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
