@@ -22,9 +22,9 @@
 
 | Thing                                                     | What it is good for                                                                                   | 
 ------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| React frontends for static datasets and streaming data    |                                                                                                       |
+| Building a team skill development back end using FastAPI  | Checking out all the built-ins by using FastAPI and Pydantic                                          |
+| React frontends for static datasets and streaming data    | Adapting my understanding of Angular to React, enjoying Typescript again                              |
 | Refreshing boto3, AWS, and serverless experience          | Cloud compute, microservices, and AWS lambda functions from Python                                    |
-| fastapi                                                   | Potential replacement for flask for small use-cases                                                   |
 | more advanced django work                                 | Full-stack work with Python                                                                           |
 | Apache Airflow                                            | Python-based data-engineering pipeline                                                                |
 | uv                                                        | Python Pip replacement and all-in-one swiss-army-knife package manager?  Will it live up to the hype? |
