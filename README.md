@@ -20,10 +20,10 @@
 <details open=True>
 <summary>Recent things I've been hacking around with</summary>
 
-| Thing                                                     | What it is good for                                                                                   | 
-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Building a team skill development back end using FastAPI  | Checking out all the built-ins by using FastAPI and Pydantic                                          |
-| React frontends for static datasets and streaming data    | Adapting my understanding of Angular to React, enjoying Typescript again                              |
+| Thing                                                     | What it is good for                                                                                   |  Repo |
+------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------|
+| Building a team skill development back end using FastAPI  | Checking out all the built-ins by using FastAPI and Pydantic                                          |   https://github.com/ErikPohl444/Develop_backend    |
+| React frontends for static datasets and streaming data    | Adapting my understanding of Angular to React, enjoying Typescript again                              |       |
 | Refreshing boto3, AWS, and serverless experience          | Cloud compute, microservices, and AWS lambda functions from Python                                    |
 | more advanced django work                                 | Full-stack work with Python                                                                           |
 | Apache Airflow                                            | Python-based data-engineering pipeline                                                                |
