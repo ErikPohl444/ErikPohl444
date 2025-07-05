@@ -36,7 +36,7 @@
 <details>
 <summary>Some tech leadership resources I created</summary>
 
-My substack account contains [examples](https://substack.com/@some1elsier/posts) of how I manage engineering efforts.
+My substack account contains [examples]([https://substack.com/@some1elsier/posts](https://erikpohl444.substack.com/)) of how I manage engineering efforts.
 </details>
 
 <details>
