@@ -1,5 +1,7 @@
 ## Hello, world!
 
+Want to know how birding relates to my technical leadership and management practice?  That's just one post in my [leadership substack](https://erikpohl444.substack.com/p/how-birding-made-me-a-better-technical).
+
 <details open=True>
 <summary>High-level info about me</summary>
 
